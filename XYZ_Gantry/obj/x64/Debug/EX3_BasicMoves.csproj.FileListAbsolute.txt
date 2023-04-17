@@ -1,0 +1,124 @@
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\bin\x64\Debug\CMO.dll
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\Public\Documents\Copley Motion\CMO\Examples\C# .NET 2017\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\yangd\Desktop\EX3_BasicMoves\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\yangd\Desktop\EX3_BasicMoves\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\yangd\Desktop\EX3_BasicMoves\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\yangd\Desktop\EX3_BasicMoves\bin\x64\Debug\CMO.dll
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\yangd\Desktop\EX3_BasicMoves\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\bin\x64\Debug\CMO.dll
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\bin\x64\Debug\LJUDDotNet.dll
+C:\Users\ljw5330\Desktop\XYZ_Scan_Move\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\CMO.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\LJUDDotNet.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\bin\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_10_11\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\CMO.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\bin\x64\Debug\LJUDDotNet.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (test)\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\CMO.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\bin\x64\Debug\LJUDDotNet.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_11_1 (testt)\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\CMO.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\LJUDDotNet.dll
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\obj\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Move_11_14 Test\bin\x64\Debug\Siticone.Desktop.UI.dll
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\CMO.dll
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\LJUDDotNet.dll
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\bin\x64\Debug\Siticone.Desktop.UI.dll
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.csprojAssemblyReference.cache
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.exe.manifest
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.application
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.exe
+C:\Users\ljw5330\Desktop\XYZ_Versions_Control\XYZ_Move_12_06 (latest)\obj\x64\Debug\EX3_BasicMoves.pdb
