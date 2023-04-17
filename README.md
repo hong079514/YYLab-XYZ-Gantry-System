@@ -31,10 +31,10 @@ https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Docu
      - Download the included file named “CopleyCanDriver_1.28.0-1 (1).zip” 
      - Extract the file 
    - Driver Install/Update: 
-    - Hit Windows key and type “device manager” 
-    - Expand other devices 
-    - Find and right click “CAN-USB-01" 
-    - Update driver > browse from my computer for driver > locate the folder of the downloaded driver 
+     - Hit Windows key and type “device manager” 
+     - Expand other devices 
+     - Find and right click “CAN-USB-01" 
+     - Update driver > browse from my computer for driver > locate the folder of the downloaded driver 
 
 Visual Studio 2017: 
  - https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15 
