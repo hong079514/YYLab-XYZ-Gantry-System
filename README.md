@@ -5,9 +5,9 @@
  - Then click on the downloaded file and follow the prompt to finish the installation.  
  
 - CopleyControls download and installation: 
- - https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Documents/ACURA%20Research/Gantry%20Scanning%20Documentation.docx?d=wa84f6de195e8412d8b53b9f13ed08763&csf=1&web=1&e=HVXCKf
+ https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Documents/ACURA%20Research/Gantry%20Scanning%20Documentation.docx?d=wa84f6de195e8412d8b53b9f13ed08763&csf=1&web=1&e=HVXCKf
 
-  - CMO
+  CMO
    - Download & Install: 
    - Go to https://copleycontrols.com/en/support/ 
    - Find Accelnet 
@@ -18,7 +18,7 @@
    - Follow the prompt to install Visual Studio 2017 if VS is not already installed 
    - User Manual: https://copleycontrols.com/wp-content/uploads/2018/02/CMO-Programmers-Guide-man-1.pdf 
 
- - Copley CAN: 
+ Copley CAN: 
   - CME Download & Install: 
    - Go to https://copleycontrols.com/en/support/ 
    - Find Accelnet 
