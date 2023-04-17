@@ -1,3 +1,4 @@
+
 LabJack U3 driver download and installation: 
  - Go to https://labjack.com/pages/support?doc=/software-driver/installer-downloads/ud-software-installers-u3-u6-ue9/ 
  - Scroll down to “Release Windows Installer Download”  
