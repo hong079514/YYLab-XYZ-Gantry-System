@@ -26,7 +26,9 @@ CopleyControls download and installation:
       - Extract the Zip file and finish the CME 8.0 Setup(.exe) 
 
     * Driver Download: 
-      -     
+      - Download the included file named "CopleyCanDriver_1.28.0-1 (1).zip"
+      - Extract the file
+      
     * Driver Install/Update: 
       - Hit Windows key and type “device manager” 
       - Expand other devices 
