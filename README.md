@@ -35,14 +35,14 @@ CopleyControls download and installation:
    - Update driver > browse from my computer for driver > locate the folder of the downloaded driver 
 
 Visual Studio 2017: 
- https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15 
- The download should automatically start 
- Follow the prompt to install Visual Studio 2017 Community Edition 
- Select both .NET desktop development and Universal Windows Platform development 
- Make sure the correct .NET version is checked on the right side panel 
+ - https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15 
+ - The download should automatically start 
+ - Follow the prompt to install Visual Studio 2017 Community Edition 
+ - Select both .NET desktop development and Universal Windows Platform development 
+ - Make sure the correct .NET version is checked on the right side panel 
 
 .NET Framework: 
- https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk 
- Download the Developer Pack of .NET 4.6.1 or higher.  
+ - https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk 
+ - Download the Developer Pack of .NET 4.6.1 or higher.  
 
  
