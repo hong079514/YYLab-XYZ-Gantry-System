@@ -8,15 +8,15 @@ CopleyControls download and installation:
 https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Documents/ACURA%20Research/Gantry%20Scanning%20Documentation.docx?d=wa84f6de195e8412d8b53b9f13ed08763&csf=1&web=1&e=HVXCKf
 
  CMO
-  Download & Install: 
-   Go to https://copleycontrols.com/en/support/ 
-   Find Accelnet 
-   Expand software tab 
-   Download “CMO Ver 6(6.0.2.0) for use with .NET 4.0+ and Visual studio 2010-2017" 
-   Follow the prompt to finish installation  
-   Select x64 CMO.dll (64 bit) 
-   Follow the prompt to install Visual Studio 2017 if VS is not already installed 
-   User Manual: https://copleycontrols.com/wp-content/uploads/2018/02/CMO-Programmers-Guide-man-1.pdf 
+  - Download & Install: 
+  - Go to https://copleycontrols.com/en/support/ 
+  - Find Accelnet 
+  - Expand software tab 
+  - Download “CMO Ver 6(6.0.2.0) for use with .NET 4.0+ and Visual studio 2010-2017" 
+  - Follow the prompt to finish installation  
+  - Select x64 CMO.dll (64 bit) 
+  - Follow the prompt to install Visual Studio 2017 if VS is not already installed 
+  - User Manual: https://copleycontrols.com/wp-content/uploads/2018/02/CMO-Programmers-Guide-man-1.pdf 
 
  Copley CAN: 
   CME Download & Install: 
