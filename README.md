@@ -27,8 +27,8 @@ https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Docu
     - Expand software tab 
     - Download CME2 Software Ver 8.0    
     - Extract the Zip file and finish the CME 8.0 Setup(.exe) 
-   - Driver Download: 
-    - Download the included file named “CopleyCanDriver_1.28.0-1 (1).zip” 
+   - Driver Download:
+   - Download the included file named “CopleyCanDriver_1.28.0-1 (1).zip” 
     - Extract the file 
    - Driver Install/Update: 
     - Hit Windows key and type “device manager” 
