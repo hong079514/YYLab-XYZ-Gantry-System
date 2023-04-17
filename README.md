@@ -5,7 +5,8 @@ LabJack U3 driver download and installation:
  - Then click on the downloaded file and follow the prompt to finish the installation.  
  
 CopleyControls download and installation: 
- https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Documents/ACURA%20Research/Gantry%20Scanning%20Documentation.docx?d=wa84f6de195e8412d8b53b9f13ed08763&csf=1&web=1&e=HVXCKf
+
+https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Documents/ACURA%20Research/Gantry%20Scanning%20Documentation.docx?d=wa84f6de195e8412d8b53b9f13ed08763&csf=1&web=1&e=HVXCKf
 
   CMO
    - Download & Install: 
