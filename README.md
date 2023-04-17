@@ -21,7 +21,7 @@ https://pennstateoffice365-my.sharepoint.com/:w:/r/personal/yvl5590_psu_edu/Docu
 
  Copley CAN: 
   - CME Download & Install: 
-   - Go to https://copleycontrols.com/en/support/ 
+   * Go to https://copleycontrols.com/en/support/ 
    - Find Accelnet 
    - Expand software tab 
    - Download CME2 Software Ver 8.0    
